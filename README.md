@@ -4,4 +4,7 @@
 
 # Установка qt:
 
+sudo apt update
 sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+sudo apt install qtcreator
+sudo apt install qtbase5-examples qtdeclarative5-examples
